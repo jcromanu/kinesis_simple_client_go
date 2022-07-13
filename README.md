@@ -1,0 +1,1 @@
+# kinesis_simple_client_go
